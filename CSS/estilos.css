@@ -36,6 +36,13 @@ header {
 
 }
 
+/* JS */
+
+.animate__heartBeat{
+    animation-duration: 20s;
+    animation-timing-function: ease-in-out;
+}
+
 /* Body */
 
 .titulo {
